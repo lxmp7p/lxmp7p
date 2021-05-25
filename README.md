@@ -3,12 +3,13 @@
 <!-- leave a STAR, if you like it ! -->
 
 <!-- GIF -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+![original](https://user-images.githubusercontent.com/59974432/119508249-45d14580-bd78-11eb-8001-30c95c02496d.gif)
+
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://github.com/lxmp7p/">Rasulov Zaur/a></b>
+                <b><a target="_blank" href="https://github.com/lxmp7p/">Rasulov Zaur</a></b>
         </samp>
 </h3>
 <br>
