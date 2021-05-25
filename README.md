@@ -20,6 +20,10 @@
         <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
+        <!-- Django -->
+        <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        </a>
         <!-- Python -->
         <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
