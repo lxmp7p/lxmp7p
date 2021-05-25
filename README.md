@@ -26,19 +26,19 @@
         </a>
         <!-- Python -->
         <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+                        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         </a>
         <!-- HTML -->
         <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+                        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         </a>
         <!-- CSS  -->
         <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+                        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/lxmp7p?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         </a>
         <br>
         <samp>
