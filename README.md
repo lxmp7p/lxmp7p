@@ -14,6 +14,8 @@
 </h3>
 <br>
 
+<a href="https://www.root-me.org/lxmpt_p-384527?lang=ru"><h3>RootMe</h3></a>
+
 <p align="center">
         <!-- Programming Languages -->
         <!-- Django -->
@@ -42,8 +44,6 @@
                 <br>
         </samp>
 </p>
-
-<a href="https://www.root-me.org/lxmpt_p-384527?lang=ru"><h2>RootMe</h2></a>
 
 <!-- Footer -->
 <samp>
