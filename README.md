@@ -14,13 +14,11 @@
 
       
 
-                <b><a target="_blank"  href="https://www.root-me.org/lxmpt_p-384527?lang=ru">RootMe</a></b>
-        
-                <b><a target="_blank"  href="https://www.codewars.com/users/lxmp7p">CodeWars</a></b>
-        
 </h3>
 <br>
-
+                <b><a target="_blank"  href="https://www.root-me.org/lxmpt_p-384527?lang=ru">RootMe</a></b>
+                <b><a target="_blank"  href="https://www.codewars.com/users/lxmp7p">CodeWars</a></b>
+        
 <p align="center">
         <!-- Programming Languages -->
         <!-- Django -->
