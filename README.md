@@ -17,6 +17,10 @@
   <samp>&gt;
                 <b><a target="_blank"  href="https://www.root-me.org/lxmpt_p-384527?lang=ru">RootMe</a></b>
         </samp>
+        
+          <samp>&gt;
+                <b><a target="_blank"  href="https://www.codewars.com/users/lxmp7p">CodeWars</a></b>
+        </samp>
 </h3>
 <br>
 
